@@ -1,0 +1,56 @@
+/**
+ * Created by Administrator on 2017/3/13.
+ */
+$(function () {
+			
+	 var bannerSlider = new Slider($('#banner_tabs'), {
+            time: 3500,
+            delay: 400,
+            event: 'hover',
+            auto: true,
+            mode: 'fade',
+            controller: $('#bannerCtrl'),
+            activeControllerCls: 'active'
+        });
+        $('#banner_tabs .flex-prev').click(function() {
+            bannerSlider.prev()
+        });
+        $('#banner_tabs .flex-next').click(function() {
+            bannerSlider.next()
+        });	
+	
+	$('audio,video').mediaelementplayer({
+	success: function(player, node) {
+		$('#' + node.id + '-mode').html('mode: ' + player.pluginType);
+	}
+});
+	
+});
+
+$(window).scroll(function () {
+  var videoM =document.getElementById('videoPlay')
+  var videoP = videoM.offsetTop;
+  if (videoP >= $(window).scrollTop() && videoP < ($(window).scrollTop()+$(window).height())) {
+      /* videoM.load();*/
+    videoM.play();
+
+  }	
+	
+	videoM.volume = 0.05;//初始化音量控制
+});
+
+function OPE() {
+	let brand = window.location.host.split('.')[1].toUpperCase()
+	if (localStorage.getItem("loginInfo")) {
+		window.open(
+		`https://kf.bestseller.com.cn/webchat/webClient/chat?brand=${
+		brand
+		}&channel=pc&username=${localStorage.getItem("phone")}`,
+		"newwindow",
+		"height=600, width=700, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no"
+		);
+	} else {
+		localStorage.setItem("jumpToURL", window.location.href);
+		location.href = "/login.html";
+	}
+}

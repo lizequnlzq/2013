@@ -1,0 +1,127 @@
+h6{
+    margin-left: 120px;
+    line-height: 30px;
+}
+.banner{
+    width: 1280px;height: 340px;
+    margin-left: 120px;
+}
+.shopings{
+    width: 1280px;height: 2100px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.list{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    float: left;
+    margin-right: 35px;
+}
+.list li{
+    width: 162px;
+    height: 16px;
+    margin-bottom: 14px;
+}
+.right{
+    float: left;
+    width: 1080px;
+}
+.right ul{
+    height: 25px;
+    padding-left: 15px;
+}
+.right ul li{
+    font-size: 14px;
+    cursor: pointer;
+    color: #000;
+    float: left;
+    width: 70px;
+}
+.right ul li:last-child{
+    float: right;
+}
+.sxq{
+    width: 65px;
+}
+.zjg{
+    width: 5px !important;
+    margin-right: 5px;
+}
+.icon-xia{
+    font-size: 3px;
+}
+.qdss{
+    margin-left: 5px;
+    width: 48px !important;height: 25px;
+    border: 1px solid #ffffff;
+    background-color: #000;
+    color: #ffffff !important;
+    text-align: center;
+}
+.row{
+    /* overflow: hidden; */
+    width: 1100px;
+    height: 2000px;
+}
+.wares{
+    width: 335px;height: 635px;
+    margin-left: 30px;
+    cursor: pointer;
+    position: relative;
+}
+.wares img{
+    width: 335px;height: 535px;
+}
+.pp{
+    width: 295px;height: 50px;
+    color: #000;
+    background-color: #ffffff;
+    /* display: none; */
+    position: absolute;
+    top: 450px;
+    left: 20px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 50px;
+}
+.pp a{
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+    line-height: 50px;
+}
+.wares dd{
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    width: 335px;
+    height: 22px;
+    overflow: hidden;
+}
+.wares dd span{
+    color: red;
+    border: 1px solid red;
+    float: right;
+}
+
+.wares dd strong{
+    font-size: 18px;
+    color: red;
+}
+.wares dd em{
+    text-decoration:line-through;
+    color: #8b8875;
+    font-size: 16px;
+}
+.pagination{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid red;
+}
+.ppp{
+    display: none;
+}

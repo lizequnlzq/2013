@@ -1,0 +1,100 @@
+.cart{
+    /* height: 800px; */
+    width: 1280px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.pagehead{
+    margin-top: 30px;
+}
+.header1{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #f2f2f2;
+    height: 35px;
+    width: 1280px;
+    
+}
+
+.header1 h4{
+    float: left;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+    line-height: 35px;
+}
+.width1{
+    width: 170px;
+}
+.width2{
+    width: 550px;
+}
+.width3{
+    width: 225px;
+}
+.width4{
+    width: 188px;
+}
+.cc{
+    width: 20px;
+    line-height: 25px;
+    height: 25px;
+}
+.aa{
+    width: 20px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    border: solid 1px #ffffff;
+    text-align: center;
+}
+.shopss h4{
+    float: left;
+    line-height: 50px;
+    font-size: 18px;
+}
+.content{
+    width: 1280px;
+    height: 174px;
+    margin-bottom: 25px;
+}
+.content img{
+    width: 100px;height: 150px;
+}
+.footer1{
+    width: 1280px;
+    height: 80px; 
+    border-bottom: solid 1px #000000;
+}
+.footer1 h4{
+    float: left;
+    font-size: 16px;
+    line-height: 60px;
+}
+.qq{
+    width: 800px;
+}
+.ww{
+    width: 140px;
+}
+.ww span{
+    font-size: 22px;
+    color: red;
+
+}
+.ee{
+    width: 200px;
+}
+.ee span{
+    font-size: 22px;
+    color: red;
+}
+.rr{
+    width: 88px;
+    height: 60px;
+    background-color: red;
+    border-radius: 20px;
+    border: solid 1px #ffffff;
+    text-align: center;
+}

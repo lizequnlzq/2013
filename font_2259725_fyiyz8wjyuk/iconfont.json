@@ -1,0 +1,149 @@
+{
+  "id": "2259725",
+  "name": "字体图",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "649313",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "774534",
+      "name": "置顶",
+      "font_class": "zhiding",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "857020",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1111364",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "1518189",
+      "name": "上",
+      "font_class": "shang",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "3881868",
+      "name": "资料,文本",
+      "font_class": "ziliao",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "4236634",
+      "name": "声音",
+      "font_class": "shengyin",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4520172",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "5122067",
+      "name": "购物车",
+      "font_class": "gouwuche-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5203315",
+      "name": "方向-右",
+      "font_class": "you",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "6582266",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6762094",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "6999497",
+      "name": "购物车",
+      "font_class": "tuya_huabanfuben",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "7366361",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8039095",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "9371323",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "10514379",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "16022357",
+      "name": "右方",
+      "font_class": "youfang",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "19378064",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "19504584",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}

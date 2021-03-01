@@ -1,0 +1,189 @@
+h6{
+    margin-left: 120px;
+}
+.main1{
+    height: 6000px;
+}
+.xqdy{
+    width: 1280px;height: 780px;
+    margin-left: 120px;
+    margin-top: 20px;
+    border-bottom: #000000 solid 1px;
+}
+.xqxy{
+    width: 1124px;height: 740px;
+    border-right: #000000 solid 1px;
+    position: relative;
+}
+.tpjh{
+    width: 108px;height: 738px;
+    float: left;
+    margin-right: 20px;
+}
+.tpjh img{
+    width: 108px;height: 174px;
+}
+.tpjh li{
+    margin-bottom: 15px;
+}
+.xzjh{
+    float: left;
+    position: relative;
+    border: solid 1px #000;
+}
+.xzjh img{
+    width: 464px;height: 738px;
+}
+.boxright{
+    width: 660px;height: 738px;
+    position: absolute;
+    top: 0px;left: 610px;
+    display: none;
+    overflow: hidden;
+}
+.imgborder{
+    border:1px solid #000;
+}
+.boxright img{
+    position: absolute;
+    height: 2288px;
+    width: 1430px;
+}
+.mark{
+    width: 214px;height: 238px;
+    display: none;
+    background-color: rgba(0,0,0,0.3);
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.jsy{
+    width: 480px;height: 600px;
+    float: left;
+    padding-left: 20px
+}
+.jsy h2{
+    font-size: 22px;
+    color: #000;
+    margin-bottom: 18px;
+    line-height: 24px;
+}
+.jsy p{
+    color: #999;
+    font-size: 14px;
+}
+.neirong{
+    width: 460px;height: 95px;
+    background-color: #f4f4f4;
+    color: #999;
+    margin-top: 40px;
+}
+.neirong li{
+    height: 40px;
+    line-height: 40px;
+}
+.neirong li strong{
+    color: #d91e25;
+    font-weight: 700;
+    font-size: 24px;
+}
+.neirong em{
+    margin-left: 20px;
+   text-decoration: line-through; 
+}
+.neirong span{
+    margin-left: 50px;
+    width:30px;height: 16px;background-color: #d91e25;
+    border: solid 1px white;
+    color: white;
+}
+.slgs{
+    margin-top: 60px;
+    width: 460px;height: 28px;
+}
+.aa{
+    width:30px;
+}
+.cc{
+    width: 40px;
+}
+.jgwc{
+    width: 230px;height: 55px;
+    border: solid 1px #000000;
+    font-size: 20px;
+    margin-top: 60px;
+    text-align: center;
+    line-height: 55px;cursor: pointer;
+}
+.jgwc i{
+    font-style: normal;
+}
+.jgwc span{
+    border: solid 4px #000000;
+    background-color: #000;
+    border-radius: 50%;
+    
+}
+.jgwc a{
+    color:#000;
+}
+.icon-gouwuche{
+    font-size: 20px;
+    color: #f4f4f4;
+}
+.ljgm{
+    /* cursor: pointer; */
+    font-size: 20px;
+    margin-top: 60px;
+    text-align: center;
+    width: 234px;height: 59px;
+    border: solid 1px #f4f4f4;
+    background-color: #000000;
+    line-height: 55px;
+    color: #f4f4f4;
+    display: block;
+}
+.ljgm a{
+    color: #f4f4f4;
+}
+.shopings{
+    width: 1280px;height: 5000px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    /* background-color: aquamarine; */
+
+}
+.list{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    float: left;
+    /* margin-right: 35px; */
+    height: 5000px;
+    width: 160px;
+    /* background-color: aquamarine; */
+}
+.list li{
+    width: 162px;
+    height: 16px;
+    margin-bottom: 14px;
+}
+.right{
+    float: left;
+    width: 965px;
+    height: 5000px;
+    text-align: left;
+    border-right: #000 1px solid;  
+
+}
+.right ul{
+    margin: auto;
+}
+.right p{
+    font-size: 36px;
+    width: 750px;
+}
+.right li:nth-child(2) img,.right li:nth-child(3) img,.right li:nth-child(4) img{
+    width: 750px;height: 1125px;
+}

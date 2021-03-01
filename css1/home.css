@@ -1,0 +1,178 @@
+.head ul{
+    margin-top: -15px;
+}
+.main{
+    width: 100%;
+    /* overflow: hidden; */
+}
+.shop1{
+    width: 100%;height: 1030px;
+    overflow: hidden;
+    position: relative;
+}
+.shop2{
+    margin-top: 30px;
+    width: 480px;height: 900px;
+    position: relative;
+    float: left;
+    z-index: 1;
+    margin-left: 265px;
+}
+.shop2:last-child{
+    margin-left: 30px;
+}
+.sp2{
+    overflow: hidden;
+    width: 480px;height: 687px;
+}
+.sp2 img{
+    width: 480px;height: 687px;
+    cursor:pointer;
+    transition: all 1.5s;
+}
+.sp2 img:hover{
+    transform: scale(1.1);
+}
+.sp1{
+    width: 1920px;height: 900px;
+    display: block;
+    position: relative;
+    overflow: hidden;
+} 
+.sp1 img{  
+    cursor: pointer;  
+    transition: all 5s;  
+}  
+.sp1 img:hover{  
+    transform: scale(1.1); 
+}
+.tysp.te1{
+    position: absolute ;
+    top: 730px;right: 0;
+}
+.tysp{
+    width: 480px;height: 64px;
+    /* padding-top: 8px; */
+    /* margin-left: 200px; */
+    position: absolute;
+    top: 930px;
+    right: 265px;
+}
+.jaru{  
+    display: inline-block;
+   
+}  
+.jaru span{
+    display: block;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 500;
+}
+.jaru em{
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.tysp p{
+    /* display: block; */
+    cursor: pointer;
+    position: absolute;
+    right: 0px;top: 0px;
+    height: 70px;width: 70px;
+    text-decoration: none; 
+    text-align: center;
+    line-height: 64px;
+    background-color: #00268a; 
+}
+.icon-gouwuche-{
+    font-size: 50px;
+    color: white;
+}
+.carousel h4{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: "微软雅黑";
+    padding-top: 100px;
+}
+#ziti{
+    width: 300px;height: 100px;
+    font-size: 18px;color:#000000;
+    text-indent: 0;
+    background-color: #ffffff;
+}
+#ziti h3{
+    margin: auto;
+    line-height: 100px;
+    width: 150px !important;height: 100px !important;
+}
+#tupian{
+    padding-left: 160px !important;
+}
+#tupian img{
+    width: 1200px !important;height: 780px;
+}
+.carousel-indicators{
+    position: absolute;
+    bottom: -60px;
+}
+.carousel-indicators li{
+    width: 300px;height: 5px;
+    background-color: black;
+}
+.carousel-inner{
+    display:block;
+    width: 100%;
+}
+.carousel-item{
+    width: 1200px;height: 850px;
+    float: left;
+    padding-left: 350px;
+    /* display: block; */
+    /* margin: auto; */
+}
+.w-100 {
+    width: 834px;
+    height: 800px;
+    margin: 0 auto;
+}
+.icon-zuo,.icon-youfang{
+    font-size: 50px;
+    color: black;
+}
+.denlun{
+    width: 100%;height: 660px;
+}
+.denlun img{
+    display: block;
+    margin:200px auto;
+}
+.zhonglei{
+    width: 100%;height: 950px;
+    margin-top: 50px;
+}
+.fenglei{
+    width: 370px;height: 280px;
+    margin-right: 45px;
+    float: left;
+    margin-top: 30px;
+}
+.fenglei dt{
+    width: 370px;height: 234px;
+    overflow: hidden;
+}
+.fenglei img{
+    cursor: pointer;
+    width: 370px;height: 234px;
+    transition: all 1s;  
+}
+.fenglei img:hover{
+    transform: scale(1.1);
+}
+.fenglei dd{
+    text-align: center;
+    font-size: 25px;
+    line-height: 60px;
+    color: #000;
+}

@@ -1,0 +1,100 @@
+.main{
+    /* position: relative; */
+    width: 100%;height: 800px;
+    background:url(../img1/loginBottom.jpg) no-repeat;
+}
+.main ul{
+    /* position: absolute; */
+    /* top: 200px;left: 1100px; */
+    width: 400px;height: 442px;
+    /* background-color: #ffffff; */
+    margin-left: 950px;
+    padding-top: 160px;
+}
+.main ul li:first-child{
+    color: #000000;
+    background-color: #e6e6e6;
+    font-size: 24px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.main ul li:last-child{
+    /* margin-top: 328px; */
+    background-color: #f3f3f3;
+    height: 64px;
+    color: #999999;font-size: 14px;
+    line-height: 50px;
+    text-align: center;
+}
+.main ul li:last-child span{
+    color: #dd1e7f;
+}
+.main ul form{
+    background-color: #ffffff;
+    height: 258px;
+}
+.icon-shouji{
+    color:#e6e6e6;
+    font-size: 18px;
+}
+.hezi{
+    padding-top: 30px;
+    margin-left: 50px;
+    width: 286px;height: 178px;
+}
+.zhanghao{
+    border: 1px solid #e6e6e6;
+    height: 46px;width: 286px;
+}
+.zhanghao label{
+    padding-left: 5px;padding-right:10px;
+    border-right: 2px solid #e6e6e6;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+.zhanghao input{
+    border: none;
+    /* border-left: 1px solid #e6e6e6; */
+    font-size: 14px;
+    /* line-height: 24px; */
+    width: 130px;
+    height: 44px;
+    padding-left: 10px;
+    outline: none;
+}
+.zhanghao span{
+    color: #dd1e7f;
+    display: none;
+    font-size: 14px;
+}
+.yzm{
+    margin-top: 20px;
+    border: 1px solid #e6e6e6;
+    height: 46px;width: 282px;
+}
+.yzm label{
+    padding-left: 5px;padding-right:10px;
+    border-right: 2px solid #e6e6e6;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.yzm input{
+    border: none;
+    font-size: 14px;
+    width: 130px;height: 44px;
+    padding-left: 10px;
+    outline: none;
+}
+.yzm span{
+    color: #dd1e7f;
+    display: none;
+    font-size: 14px;
+}
+.ljdl{
+    margin-top: 30px;
+    width: 286px;height: 46px;
+    background-color: #000000;
+    color: #e6e6e6;
+    font-size: 14px;
+}
